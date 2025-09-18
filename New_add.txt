@@ -1,0 +1,19 @@
+1. Git Account Login
+2. Git version check (git -v)
+https://git-scm.com/downloads/win
+Download and Install
+3. Create Repository
+https://github.com/roobon/pwad68
+4. Create a directoroy in Local Computer
+E:\PWAD68\gitTest
+5. in CMD: git init
+6. create file in that folder (myfile1.txt, myfile2.txt)
+7. git add . (All files will be cached for commit)
+8. git status
+9. git commit -m "first commit"
+10. git branch -M main
+11. git remote add origin https://github.com/roobon/pwad68.git
+12. git push -u origin main
+(If fatal: unable to access error)
+Windows Credential Manager: Remove Github account
+13. Logged in github with Chrome and must be default browser

@@ -1,0 +1,15 @@
+1. Git Account Login
+2. Open the location
+E:\PWAD68\gitTest 
+3. Replate location url by type cmd
+
+5. git add . (All files will be cached for commit)
+6. git status
+
+7. git commit -m "2nd commit"
+
+8. git push -u origin main
+(If fatal: unable to access error)
+
+Windows Credential Manager: Remove Github account
+13. Logged in github with Chrome and must be default browser
