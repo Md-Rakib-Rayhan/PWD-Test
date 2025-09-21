@@ -11,6 +11,10 @@ E:\PWAD68\gitTest
 7. git add . (All files will be cached for commit)
 8. git status
 9. git commit -m "first commit"
+	If get issu
+	9.1. git config user.name "Your Name"
+	9.2 git config user.email "Your Email"
+
 10. git branch -M main
 11. git remote add origin https://github.com/roobon/pwad68.git
 12. git push -u origin main
